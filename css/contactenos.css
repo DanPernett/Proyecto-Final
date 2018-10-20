@@ -1,0 +1,63 @@
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+
+.social {
+  margin: 0 auto;
+  width: 500px;
+  text-align: center;
+  padding: 50px;
+}
+h2 {
+  color: #505050;
+  font-size: 70px;
+  font-family: 'Poiret One';
+  text-align: center;
+}
+#pcorreo {
+    color: #131111;
+    font-size: 23px;
+    font-family: 'Poiret One';
+    text-align: center;
+}
+.icon-btn {
+  float: initial;
+  width: 80px;
+  height: 80px;
+  border: 0;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-size: 40px;
+  line-height: 70px;
+  border-radius: 45px;
+  display: inline-block;
+  margin: 5px;
+}
+.twitter {
+  color: #4099FF;
+}
+.facebook {
+  color: #3B5998;
+}
+.youtube {
+   color: #DB5A3C;
+}
+.instagram {
+  color: #5C3D2E;
+}
+.icon-btn:hover {
+  transform: scale(1.10);
+  color: #FFFFFF;
+}
+.twitter:hover {
+  background-color: #4099FF;
+}
+.facebook:hover {
+  background-color: #3B5998;
+}
+.youtube:hover {
+   background-color: #DB5A3C;
+}
+.instagram:hover {
+  background-color: #5C3D2E;
+}
+
+  
